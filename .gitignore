@@ -406,7 +406,14 @@ ASALocalRun/
 
 
 .env
+.env.local
+.env.*.local
 
 Secrets.json
+
+# Test/Mock Data Files
+getAll.json
+getId.json
+getId_withIcon.json
 
 
